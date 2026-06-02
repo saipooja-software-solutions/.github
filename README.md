@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/transbanner.png" width="100%" />
 
 <br/>
 <br/>
