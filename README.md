@@ -145,7 +145,7 @@ Practical software solutions for clinics, schools, startups, agencies, and opera
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/sai.png" width="230" alt="Saikumar Mallarapu" />
+<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/founder.png" width="230" alt="Saikumar Mallarapu" />
 
 <br/><br/>
 
