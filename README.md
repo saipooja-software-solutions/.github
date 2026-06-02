@@ -131,7 +131,7 @@ We assist with deployment, maintenance, improvements, and future upgrades.
 
 <div align="center">
 
-<img src="assets/founder.png" width="220" alt="Saikumar Mallarapu - Founder of Saipooja Software Solutions" />
+<img src="sai.png" width="220" alt="Saikumar Mallarapu - Founder of Saipooja Software Solutions" />
 
 </div>
 
