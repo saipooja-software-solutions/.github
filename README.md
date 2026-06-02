@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/banner.png" width="100%" />
+
+<br/>
+<br/>
+
 # Saipooja Software Solutions
 
 ### Software & Digital Services
@@ -23,6 +28,11 @@ Building practical software systems, AI tools, automation platforms, and modern 
 <a href="https://github.com/saipooja-software-solutions">
   <img src="https://img.shields.io/badge/GitHub-Organization-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=saipooja-software-solutions&style=for-the-badge&color=0A66FF" />
 
 </div>
 
@@ -48,8 +58,6 @@ We help businesses reduce manual work, automate workflows, improve operational e
 * Document Automation
 * Smart Business Workflows
 
----
-
 ## Business Software
 
 * Billing & POS Systems
@@ -59,8 +67,6 @@ We help businesses reduce manual work, automate workflows, improve operational e
 * Admin Dashboards
 * Reporting Systems
 * ERP Solutions
-
----
 
 ## Web & App Development
 
@@ -93,8 +99,6 @@ We help businesses reduce manual work, automate workflows, improve operational e
 * Redis
 * Celery
 
----
-
 # DevOps & Deployment
 
 * Docker
@@ -103,8 +107,6 @@ We help businesses reduce manual work, automate workflows, improve operational e
 * Gunicorn
 * AWS
 * Cloudflare
-
----
 
 # APIs & Integrations
 
@@ -117,27 +119,34 @@ We help businesses reduce manual work, automate workflows, improve operational e
 
 ---
 
-# Project Types
+# Featured Solutions
+
+## Clinic Management System
+
+Role-based healthcare management platform with appointments, billing, pharmacy management, attendance tracking, and reporting dashboards.
 
 ## Billing & POS Software
 
-Invoice generation, stock management, sales reports, payments, and customer tracking systems.
+Business billing software with inventory tracking, invoice generation, customer records, payments, and analytics.
 
-## CRM & Lead Management
+## CRM & Lead Management Platform
 
-Lead tracking, workflow automation, reporting dashboards, and customer communication systems.
+Lead tracking, workflow automation, communication systems, reporting dashboards, and operational management.
 
-## Attendance Platforms
+## AI Assistant Systems
 
-Student and staff attendance tracking, reports, analytics, and secure management systems.
+AI-powered automation systems, AI search tools, business assistants, and intelligent workflow integrations.
 
-## AI Business Systems
+---
 
-AI assistants, AI search systems, automation tools, and business workflow intelligence systems.
+# Organization Highlights
 
-## Custom Business Applications
-
-Practical software solutions for clinics, schools, startups, agencies, and operational businesses.
+* 🚀 Real-world Production Projects
+* ⚡ Automation-first Development
+* 🤖 AI Integration Systems
+* 🌐 Modern Web Applications
+* 🔒 Secure Backend Architecture
+* 📦 Scalable API Systems
 
 ---
 
@@ -145,9 +154,10 @@ Practical software solutions for clinics, schools, startups, agencies, and opera
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/founder.png" width="230" alt="Saikumar Mallarapu" />
+<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/founder.png" width="240" style="border-radius:20px;" alt="Saikumar Mallarapu" />
 
-<br/><br/>
+<br/>
+<br/>
 
 ## Saikumar Mallarapu
 
@@ -172,6 +182,26 @@ Founder of **Saipooja Software Solutions** and a Python Django Developer focused
 
 ---
 
+# Development Process
+
+### 1. Consultation
+
+Understanding business workflows, operational problems, users, and expected outcomes.
+
+### 2. Planning
+
+Designing scalable architecture, feature structure, workflows, and implementation strategy.
+
+### 3. Development
+
+Building secure, responsive, scalable, and maintainable applications for real-world business usage.
+
+### 4. Deployment & Support
+
+Production deployment, monitoring, optimization, upgrades, and long-term technical support.
+
+---
+
 # Why Businesses Choose Us
 
 * Practical business-focused software
@@ -181,26 +211,6 @@ Founder of **Saipooja Software Solutions** and a Python Django Developer focused
 * AI-ready systems
 * Long-term technical support
 * Production-ready deployment workflows
-
----
-
-# Development Process
-
-### 1. Consultation
-
-Understanding business workflows, requirements, and operational problems.
-
-### 2. Planning
-
-Designing scalable architecture, features, and implementation strategy.
-
-### 3. Development
-
-Building secure, responsive, scalable, and maintainable applications.
-
-### 4. Deployment & Support
-
-Production deployment, maintenance, optimization, and upgrades.
 
 ---
 
@@ -230,9 +240,9 @@ Production deployment, maintenance, optimization, and upgrades.
 
 <div align="center">
 
-### Saipooja Software Solutions
+# Saipooja Software Solutions
 
-Practical Software • Automation • AI Systems • Business Applications
+### Practical Software • Automation • AI Systems • Business Applications
 
 © 2026 Saipooja Software Solutions
 
