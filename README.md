@@ -6,33 +6,51 @@
 
 Building practical software systems, AI tools, automation platforms, and modern business applications.
 
-[Website](https://saipoojasolutions.in) · [LinkedIn](https://www.linkedin.com/company/saipooja-software-solutions/) · [Instagram](https://www.instagram.com/saipoojasoftwaresolutions/) · [GitHub](https://github.com/saipooja-software-solutions)
+<br/>
+
+<a href="https://saipoojasolutions.in">
+  <img src="https://img.shields.io/badge/Website-Visit_Website-0A66FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/company/saipooja-software-solutions/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/saipoojasoftwaresolutions/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/saipooja-software-solutions">
+  <img src="https://img.shields.io/badge/GitHub-Organization-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About
+# About Us
 
-Saipooja Software Solutions builds practical software systems for real-world business needs.
+Saipooja Software Solutions builds practical software systems, AI-powered platforms, automation tools, scalable APIs, and modern business applications for real-world operations.
 
-We focus on websites, billing software, CRM systems, attendance platforms, AI integrations, automation workflows, APIs, and custom business applications that help businesses reduce manual work and improve daily operations.
+We help businesses reduce manual work, automate workflows, improve operational efficiency, and scale digitally using reliable software systems.
 
 ---
 
-## Core Services
+# Core Services
 
-### AI & Automation
+## AI & Automation
 
 * AI Integration
-* AI Employee Training
-* AI Chatbots
 * AI Assistants
-* Document Automation
+* AI Chatbots
 * WhatsApp Automation
 * Email Automation
+* Document Automation
+* Smart Business Workflows
 
-### Business Software
+---
+
+## Business Software
 
 * Billing & POS Systems
 * CRM Platforms
@@ -40,21 +58,33 @@ We focus on websites, billing software, CRM systems, attendance platforms, AI in
 * Inventory Management
 * Admin Dashboards
 * Reporting Systems
+* ERP Solutions
 
-### Web & App Development
+---
+
+## Web & App Development
 
 * Business Websites
-* Company Websites
+* Company Portfolios
 * Landing Pages
 * Mobile Applications
 * Custom Web Applications
+* Responsive UI/UX Systems
 * SEO Structured Websites
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Backend
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,redis,linux,aws,git,github,vscode" />
+
+</div>
+
+---
+
+# Backend Development
 
 * Python
 * Django
@@ -63,16 +93,9 @@ We focus on websites, billing software, CRM systems, attendance platforms, AI in
 * Redis
 * Celery
 
-### APIs & Integrations
+---
 
-* REST APIs
-* JWT Authentication
-* OpenAI API
-* WhatsApp API
-* Google APIs
-* Payment/API Integrations
-
-### DevOps & Deployment
+# DevOps & Deployment
 
 * Docker
 * Linux
@@ -83,107 +106,134 @@ We focus on websites, billing software, CRM systems, attendance platforms, AI in
 
 ---
 
-## Project Types
+# APIs & Integrations
 
-### Billing & POS Software
-
-Invoice generation, stock tracking, customer records, payments, sales reports, and role-based dashboards.
-
-### CRM & Lead Management
-
-Customer workflows, lead tracking, follow-ups, automation pipelines, and business reporting.
-
-### Attendance Platforms
-
-Student and staff attendance, notifications, reports, analytics, and secure access control.
-
-### AI Business Systems
-
-AI assistants, document search, smart workflows, AI chatbots, and business automation tools.
-
-### Custom Business Applications
-
-Practical software for clinics, schools, shops, startups, agencies, and service businesses.
+* REST APIs
+* JWT Authentication
+* OpenAI APIs
+* Google APIs
+* WhatsApp APIs
+* Payment Integrations
 
 ---
 
-## Development Process
+# Project Types
 
-### 1. Consultation
+## Billing & POS Software
 
-We understand your business workflow, users, problem, and expected outcome.
+Invoice generation, stock management, sales reports, payments, and customer tracking systems.
 
-### 2. Planning
+## CRM & Lead Management
 
-We define features, system structure, timeline, and implementation approach.
+Lead tracking, workflow automation, reporting dashboards, and customer communication systems.
 
-### 3. Development
+## Attendance Platforms
 
-We build clean, responsive, secure, and maintainable software systems.
+Student and staff attendance tracking, reports, analytics, and secure management systems.
 
-### 4. Deployment & Support
+## AI Business Systems
 
-We assist with deployment, maintenance, improvements, and future upgrades.
+AI assistants, AI search systems, automation tools, and business workflow intelligence systems.
+
+## Custom Business Applications
+
+Practical software solutions for clinics, schools, startups, agencies, and operational businesses.
 
 ---
 
-## Founder & Software Developer
+# Founder & Software Developer
 
 <div align="center">
 
-<img src="sai.png" width="220" alt="Saikumar Mallarapu - Founder of Saipooja Software Solutions" />
+<img src="https://raw.githubusercontent.com/saipooja-software-solutions/.github/main/profile/sai.png" width="230" alt="Saikumar Mallarapu" />
+
+<br/><br/>
+
+## Saikumar Mallarapu
+
+Founder of **Saipooja Software Solutions** and a Python Django Developer focused on building scalable business software, automation systems, APIs, and production-ready applications.
 
 </div>
 
-### Saikumar Mallarapu
+---
 
-Founder of **Saipooja Software Solutions** and a Python Django Developer focused on building practical business software, automation systems, scalable APIs, and modern web applications.
+# Core Expertise
 
-**Core Expertise**
+<div align="center">
 
-* Python
-* Django
-* Django REST Framework
-* PostgreSQL
-* REST APIs
-* Docker
-* Redis
-* Linux
-* AWS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-REST_API-red?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+</div>
 
 ---
 
-## Why Businesses Choose Us
+# Why Businesses Choose Us
 
-* Practical software for daily business operations
-* Clean and scalable backend architecture
+* Practical business-focused software
+* Clean and scalable architecture
 * Modern responsive UI/UX
 * Automation-first development
 * AI-ready systems
 * Long-term technical support
-* Business-focused delivery
+* Production-ready deployment workflows
 
 ---
 
-## Contact
+# Development Process
 
-**Website**
-https://saipoojasolutions.in
+### 1. Consultation
 
-**Email**
-[info@saipoojasolutions.in](mailto:info@saipoojasolutions.in)
+Understanding business workflows, requirements, and operational problems.
 
-**Social**
+### 2. Planning
 
-* Instagram: https://www.instagram.com/saipoojasoftwaresolutions/
-* LinkedIn: https://www.linkedin.com/company/saipooja-software-solutions/
-* GitHub: https://github.com/saipooja-software-solutions
+Designing scalable architecture, features, and implementation strategy.
+
+### 3. Development
+
+Building secure, responsive, scalable, and maintainable applications.
+
+### 4. Deployment & Support
+
+Production deployment, maintenance, optimization, and upgrades.
+
+---
+
+# Connect With Us
+
+<div align="center">
+
+<a href="https://saipoojasolutions.in">
+  <img src="https://img.shields.io/badge/Website-Visit-0A66FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/saipoojasoftwaresolutions/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/company/saipooja-software-solutions/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/saipooja-software-solutions">
+  <img src="https://img.shields.io/badge/GitHub-Organization-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
+### Saipooja Software Solutions
+
+Practical Software • Automation • AI Systems • Business Applications
+
 © 2026 Saipooja Software Solutions
-Software & Digital Services
 
 </div>
